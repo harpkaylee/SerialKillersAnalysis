@@ -9,4 +9,5 @@ Multiple visualizations were created to show different aspects of the data colle
 
 **About**
 This project is maintained by Kaylee Harp. It was created with the aim of shedding light on the chilling reality of serial killers in the United States and fostering a deeper understanding of crime patterns.
-![alt text](C:\Users\kayle\OneDrive\Documents\Github Projects)
+[Harp_SerialKillers.pptx](https://github.com/harpkaylee/SerialKillersAnalysis/files/15143298/Harp_SerialKillers.pptx)
+
